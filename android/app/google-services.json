@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463081255449",
+    "firebase_url": "https://hardwarestorestock.firebaseio.com",
+    "project_id": "hardwarestorestock",
+    "storage_bucket": "hardwarestorestock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463081255449:android:88f6b729ae96a50a3bf088",
+        "android_client_info": {
+          "package_name": "com.example.hardware_stock_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463081255449-4g895adr1v2m9hs0lijqi7gnm5looc48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyx3weqxyM3NViY2MqZRs9u5HXxeqvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463081255449-4g895adr1v2m9hs0lijqi7gnm5looc48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

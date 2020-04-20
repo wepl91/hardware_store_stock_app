@@ -10,7 +10,7 @@ class _ProvidersPageState extends State<ProvidersPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.black87,
+        backgroundColor: Colors.grey[850],
         title: Text('Proveedores'),
       ),
     );
