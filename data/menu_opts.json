@@ -1,0 +1,15 @@
+{
+    "nombreApp" : "Hardware Store",
+    "rutes" : [
+        {
+            "rute" : "products_list",
+            "icon" : "list",
+            "text" : "Productos"
+        },
+        {
+            "rute" : "providers_list",
+            "icon" : "assignment_ind",
+            "text" : "Proveedores"
+        }
+    ]
+}
